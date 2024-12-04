@@ -22,13 +22,14 @@ body{
 }
 .contact-left-title h2{
     font-weight: 400;
-    color:rgb(253, 181, 0);
+    color:rgb(0, 0, 0);
     font-size: 30px;
     margin-bottom: 5px;
 }
 
 .contact-left-title h3{
     font-weight: 400;
+    color:rgb(253, 181, 0);
     color:rgb(0, 0, 0);
     font-size: 30px;
     margin-bottom: 5px;
